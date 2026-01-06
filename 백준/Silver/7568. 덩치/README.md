@@ -1,3 +1,5 @@
+# * 풀다가 1시간이 넘어서 답지를 봄 *
+
 # [Silver V] 덩치 - 7568 
 
 [문제 링크](https://www.acmicpc.net/problem/7568) 
